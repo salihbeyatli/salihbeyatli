@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👾Merhaba ben Salih Beyatlı. Front-end ve UI/UX alanlarında kendimi geliştirmekteyim.
+🕹Son derece yaratıcı ve yenilikçi bir web tasarımcısıyım.
+🎆Kullanıcı deneyimi ve web standartları hakkında güçlü bir anlayışa sahibim ve hem kullanıcı dostu hem de görsel olarak çekici olan duyarlı web siteleri oluşturmayı hedefliyorum.
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salihbeyatl%C4%B1/)
