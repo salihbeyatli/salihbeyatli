@@ -10,6 +10,12 @@
 [![web](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=Web&logoColor=white)](https://www.salihbeyatli.com)
 [![instagram](https://img.shields.io/badge/İnstagram-000000?style=for-the-badge&logo=İnstagram&logoColor=white)](https://www.instagram.com/slh.bytl/)
 
+<!--<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=salihbeyatli&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+-->
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salihbeyatli&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+
+
+
 <!--
 **salihbeyatli/salihbeyatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
