@@ -7,9 +7,9 @@
 🎆Kullanıcı deneyimi ve web standartları hakkında güçlü bir anlayışa sahibim<br>
 👾Hem kullanıcı dostu hem de görsel olarak çekici olan duyarlı web siteleri oluşturmayı hedefliyorum.<br>
 <br>
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salihbeyatl%C4%B1/)
-[![web](https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=Web&logoColor=white)](https://www.salihbeyatli.com)
-[![instagram](https://img.shields.io/badge/İnstagram-000000?style=for-the-badge&logo=İnstagram&logoColor=white)](https://www.instagram.com/slh.bytl/)
+[![linkedin](https://img.shields.io/badge/Linkedin-3f3d56?style=for-the-badge&logo=Linkedin&logoColor=f9a826)](https://www.linkedin.com/in/salihbeyatl%C4%B1/)
+[![web](https://img.shields.io/badge/Web-3f3d56?style=for-the-badge&logo=about.me&logoColor=f9a826)](https://www.salihbeyatli.com)
+[![instagram](https://img.shields.io/badge/İnstagram-3f3d56?style=for-the-badge&logo=instagram&logoColor=f9a826)](https://www.instagram.com/slh.bytl/)
 
 <!--<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=salihbeyatli&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 -->
