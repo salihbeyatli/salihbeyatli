@@ -1,4 +1,4 @@
-<img align="right" alt="png" src="https://salihbeyatli.com/images/undraw/undraw_programming_re_kg9v.png" width="500" height="320" />
+<img align="right" alt="png" src="https://salihbeyatli.com/images/undraw/undraw_programming_re_kg9v.svg" width="500" height="320" />
 
 ## Front-end Developer 🚀
 
