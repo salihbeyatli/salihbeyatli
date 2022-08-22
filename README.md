@@ -1,6 +1,6 @@
 <img align="right" alt="png" src="https://salihbeyatli.com/images/undraw/undraw_programming_re_kg9v.svg" width="500" height="320" />
 
-## Junior Front-end Developer 🚀
+## Junior Front-End Developer 🚀
 
 👋Merhaba ben Salih Beyatlı. Front-end ve UI/UX alanlarında kendimi geliştirmekteyim.<br>
 🕹Son derece yaratıcı ve yenilikçi bir web tasarımcısıyım.<br>
