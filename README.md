@@ -4,7 +4,7 @@
 
 👋Merhaba ben Salih Beyatlı. Front-end ve UI/UX alanlarında kendimi geliştirmekteyim.<br>
 🕹Son derece yaratıcı ve yenilikçi bir web tasarımcısıyım.<br>
-🎆Kullanıcı deneyimi ve web standartları hakkında güçlü bir anlayışa sahibim<br>
+🎆Kullanıcı deneyimi ve web standartları hakkında güçlü bir anlayışa sahibim.<br>
 👾Hem kullanıcı dostu hem de görsel olarak çekici olan duyarlı web siteleri oluşturmayı hedefliyorum.<br>
 <br>
 [![linkedin](https://img.shields.io/badge/Linkedin-3f3d56?style=for-the-badge&logo=Linkedin&logoColor=f9a826)](https://www.linkedin.com/in/salihbeyatl%C4%B1/)
