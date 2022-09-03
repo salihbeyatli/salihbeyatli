@@ -10,7 +10,7 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-3f3d56?style=for-the-badge&logo=Linkedin&logoColor=f9a826)](https://www.linkedin.com/in/salihbeyatl%C4%B1/)
 [![website](https://img.shields.io/badge/Website-3f3d56?style=for-the-badge&logo=about.me&logoColor=f9a826)](https://www.salihbeyatli.com)
 [![instagram](https://img.shields.io/badge/İnstagram-3f3d56?style=for-the-badge&logo=instagram&logoColor=f9a826)](https://www.instagram.com/slh.bytl/)
-[![behance](https://img.shields.io/badge/Behance-3f3d56?style=for-the-badge&logo=behance&logoColor=f9a826)](https://www.behance.net/salihbeyatl)
+[![behance](https://img.shields.io/badge/Behance-3f3d56?style=for-the-badge&logo=behance&logoColor=f9a826)](https://www.behance.net/salihbeyatli)
 [![codepen](https://img.shields.io/badge/CodePen-3f3d56?style=for-the-badge&logo=codepen&logoColor=f9a826)](https://codepen.io/slhbytl)
 
 <!--<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=salihbeyatli&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
