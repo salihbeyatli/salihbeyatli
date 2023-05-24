@@ -20,13 +20,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api?username=salihbeyatli&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-<!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=salihbeyatli&theme=dark&hide_border=true)<br/>
--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salihbeyatli&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
 <!--
 **salihbeyatli/salihbeyatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
